@@ -1,4 +1,4 @@
- class AdditionProgram {
+  public class Test {
     public static void main(String[] args) {
         // Declare and initialize two integer variables
         int num1 = 100;
