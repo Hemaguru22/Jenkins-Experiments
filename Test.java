@@ -1,8 +1,8 @@
 public class AdditionProgram {
     public static void main(String[] args) {
         // Declare and initialize two integer variables
-        int num1 = 5;
-        int num2 = 15;
+        int num1 = 15;
+        int num2 = 20;
         
         // Calculate the sum and store it in a third variable
         int sum = num1 + num2;
